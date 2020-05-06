@@ -30,6 +30,6 @@
     "eslint": "^6.6.0",
     "eslint-config-founderlab": "^0.3.16",
     "eslint-plugin-react": "^7.16.0",
-    "expect": "^24.9.0"
+    "expect": "^26.0.1"
   }
 }
